@@ -36,7 +36,9 @@ El taller se divide en tres módulos principales:
 - **Entorno:** IntelliJ IDEA / Eclipse
 - **Testing:** JUnit 5
 - **Control de versiones:** Git
-- **Documentación:** UML (diagrama incluido)
+- **Documentación:** UML
+<img width="1574" height="876" alt="UML Taller 1 (1)" src="https://github.com/user-attachments/assets/423aa5b6-26b1-447b-a281-0183b8bcb418" />
+
 
 ---
 
